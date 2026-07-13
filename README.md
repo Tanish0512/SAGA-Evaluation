@@ -14,7 +14,7 @@
 
 👉 **[SAGA Audio Demos](#)** *(replace this link with your hosted demo page)*
 
-The evaluated audios range in duration from **3 to 17 minutes** (average ~8 min) and span multiple aesthetic and production dimensions.
+The evaluated audios range in duration from **5 to 15 minutes** (average ~8 min) and span multiple aesthetic and production dimensions.
 
 ---
 
