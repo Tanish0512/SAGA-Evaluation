@@ -96,25 +96,6 @@ Human mastering still holds the edge in subjective ratings (widest gap on SFX qu
 - **Text-to-Audio (SFX & BGM)** — Stable Audio 3
 - **Loudness / metering** — pyloudnorm, EBU R128
 - **Aesthetic evaluation** — Meta Audiobox-Aesthetics
-
----
-
-## Citation
-
-If you use SAGA or refer to this work, please cite:
-
-```bibtex
-@inproceedings{sahu2026saga,
-  title     = {SAGA: Script-to-Audio-Generation-Agent},
-  author    = {Sahu, Tanish and Das, Gautham and Sharma, Shubham and
-               Singh, Nishant and Batra, Mudit and Venkataramani, Shrikant and
-               Sharma, Vasu},
-  booktitle = {IEEE Spoken Language Technology Workshop (SLT)},
-  year      = {2026},
-  organization = {Pocket FM}
-}
-```
-
 ---
 
 ## Contact
